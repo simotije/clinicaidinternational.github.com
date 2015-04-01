@@ -321,8 +321,8 @@
  1.4)Become Volunteer Section
  ----------------------------------------*/
 .parallax-section {
-	min-height: 434px;
-	background: url(../img/volunteer.jpg) 0 0 no-repeat;
+	/*min-height: 434px;*/
+	/*background: url(../img/volunteer.jpg) 0 0 no-repeat;*/
 	background-size: cover;
 	background-attachment: fixed;
 }

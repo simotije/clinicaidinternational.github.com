@@ -8,3 +8,16 @@ a.white {
 .who-are-we p {
 	font-size:2rem;
 }
+
+/* custom image for volunteer parallax section */
+.parallax-section {
+	background-position: center center;
+	background: url(http://i.imgur.com/LV9XkCO.jpg) 0 0 no-repeat;
+	min-height:434px;
+}
+
+.bgx {
+	color:white;
+	background-color: rgba(0,0,0,0.75);
+	padding:0.5rem;
+}
