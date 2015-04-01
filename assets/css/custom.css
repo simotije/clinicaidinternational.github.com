@@ -1,0 +1,10 @@
+/* css tweaks for clinicaid */
+
+a.white {
+	text-decoration: none;
+	color:#fff;
+}
+
+.who-are-we p {
+	font-size:2rem;
+}
