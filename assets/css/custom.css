@@ -12,7 +12,7 @@ a.white {
 /* custom image for volunteer parallax section */
 .parallax-section {
 	background-position: center center;
-	background: url(http://i.imgur.com/LV9XkCO.jpg) 0 0 no-repeat;
+	background: url(img/logo-banner.png) 0 0 no-repeat;
 	min-height:434px;
 }
 
